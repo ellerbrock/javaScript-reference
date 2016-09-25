@@ -1,6 +1,7 @@
 # Mozilla Developer Network
+## Javascript Reference
 
-**Fastest way to get information from the MDN Javascript Reference**
+**Fastest way to get information from the [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)**
 
 Every Coder now and then runs in a situation not really sure what parameters to pass to a certain function, what are the return values or something like that.
 
@@ -18,7 +19,7 @@ Just tip in your Browser of choice mdn.io/{parameter}.
 
 **Example:**
 
-[http://mdn.io/mdn.io/map-reduce](http://mdn.io/mdn.io/map-reduce)
+[http://mdn.io/map-reduce](http://mdn.io/map-reduce)
 
 which forwards you directly to:
 
