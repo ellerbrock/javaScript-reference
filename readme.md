@@ -1,4 +1,4 @@
-# Mozilla Developer Network
+# Mozilla Developer Network [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.svg?v=101)](https://github.com/ellerbrock/javascript-badges/) [![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badge/)
 ## Javascript Reference
 
 **Fastest way to get information from the [MDN Javascript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)**
@@ -26,3 +26,20 @@ which forwards you directly to:
 [https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 ![](http://i.giphy.com/KgmRDWE0k7h2U.gif)
+
+
+### Contact / Social Media
+
+*Get the latest News about Web Development, Open Source, Tooling, Server & Security*
+
+[![Twitter](https://github.frapsoft.com/social/twitter.png)](https://twitter.com/frapsoft/)
+[![Facebook](https://github.frapsoft.com/social/facebook.png)](https://www.facebook.com/frapsoft/)
+[![Google+](https://github.frapsoft.com/social/google-plus.png)](https://plus.google.com/116540931335841862774)
+[![Gitter](https://github.frapsoft.com/social/gitter.png)](https://gitter.im/frapsoft/frapsoft/)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/ellerbrock/)
+
+### License 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
+
+This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ellerbrock/" property="cc:attributionName" rel="cc:attributionURL">Maik Ellerbrock</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
