@@ -5,21 +5,21 @@
 
 Every Coder now and then runs in a situation not really sure what parameters to pass to a certain function, what are the return values or something like that.
 
-The fastest way i found so far to get exactly the information in need is the site [mdn.io](https://mdn.io).
+The fastest way i found so far to get exactly the information needed is the site [mdn.io](https://mdn.io).
 
 Lets say you are coding and not sure how to use the `Array.prototype.reduce()` Function correctly.
 
-Most of us probably will start a Google search like `javascript map reduce` and clicking to a few links till we got what we were looking for.
+Most of us probably will start a Google search like `javascript array reduce` and clicking to a few links till we got what we were looking for.
 
-**Good news there is a faster way you will love!**
+**Good news! There is a faster way you will love!**
 
 The fastest way to get directly to the site on the mdn javascript reference is pretty simple:
 
-Just tip in your Browser of choice mdn.io/{parameter}.
+Just tip in the adress bar of your browser: mdn.io/{parameter}.
 
 **Example:**
 
-[http://mdn.io/map-reduce](http://mdn.io/map-reduce)
+[http://mdn.io/reduce](http://mdn.io/reduce)
 
 which forwards you directly to:
 
